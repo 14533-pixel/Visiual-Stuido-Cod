@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=,, initial-scale=1.0">
+    <title>Ana Sayfa</title>
+    <style>
+     h1{
+    display: inline-block;
+    margin-right: 900px;
+    margin-left: 100px;
+    font-size: xx-large;
+}
+h2{
+    font-size: xx-large;
+    text-align: center;
+}
+
+.box{
+    display: inline-block;
+    width: 28%;
+    padding: 30px;
+    margin-right: 30px;  
+    margin-bottom: 40px;    
+    background-color: #474E68; 
+    box-shadow: rgba(240, 46, 170, 0.4) -5px 5px, rgba(240, 46, 170, 0.3) -10px 10px, rgba(240, 46, 170, 0.2) -15px 15px, rgba(240, 46, 170, 0.1) -20px 20px, rgba(240, 46, 170, 0.05) -25px 25px;
+    border-radius: 30px;
+    transition: all 200ms;
+ }
+ .box:hover{
+    box-shadow: 10px 15px #fff;
+    background-color: #50577A;
+ }
+ .aa{
+    text-decoration: none;
+    margin-right: 40px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+    padding: 15px;
+    border-radius: 5px; 
+    transition: all 200ms;
+    color: #fff;
+ }
+ .aa:hover{
+    box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
+    background-color: #fff;
+    color: #FF74B1;
+ }
+ .aa:active{
+   color: blue;
+ }
+ .hello{
+ background-color: #474E68; 
+ margin-bottom: 40px;
+ border-radius: 20PX;
+ box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+ }
+ img{
+    width: 300px;
+    border-radius: 30px;
+    
+ }
+ .container{
+    margin-bottom: 50px;
+ }
+ .boxer{
+    font-size: x-large;
+    margin-left: 30px   ;
+    margin-right: 60px;
+ }
+ .boxer1{
+    background-color: #474E68 ;
+    padding: 50px;
+    margin-bottom: 100px;
+    border-radius: 30px;
+ }
+ .boxive{
+    display: inline-block;
+ 
+ }
+ .boxiver{
+    display: inline-block;
+    float: left;
+    margin-right: 15px;
+    
+  }
+  .boxend{
+   background-color: #C2FBD7;
+   border-radius: 50px;
+   border-width: 0;
+   box-shadow: rgba(25, 25, 25, 0.04) 0 0 1px 0, rgba(0, 0, 0, 0.1) 0 3px 4px 0;
+   color: #008000;
+   cursor: pointer;
+   display: inline-block;
+   font-family: Arial, sans-serif;
+   font-size: 1em;
+   height: 50px;
+   padding: 0 25px;
+   transition: all 200ms;
+   margin-bottom: 100px;
+ }
+ .boxend:hover{
+   background-color: #AFE6C3;
+   transform: scale(1.05);
+    
+ }
+ .ender{
+    background-color: rgba(240, 46, 170, 0.4);
+    padding:10px;
+    border-radius: 20px;
+    font-size: large;
+ }
+ body{
+    background-color: #404258;
+    color: #fff;
+ }
+ .notice{
+   width: 70px;
+   height: 60px;
+   display: inline-block;
+   float: right;
+   margin-right: 15px;
+   background-color: #C2FBD7;
+   border-radius: 50px;
+   border-width: 0;
+   box-shadow: rgba(25, 25, 25, 0.04) 0 0 1px 0, rgba(0, 0, 0, 0.1) 0 3px 4px 0;
+   color: #008000;
+   cursor: pointer;
+   display: inline-block;
+   font-family: Arial, sans-serif;
+   font-size: 1em;
+   height: 50px;
+   padding: 0 25px;
+   transition: all 200ms;
+ }
+ .notice:hover{
+   background-color: #AFE6C3;
+   transform: scale(1.05);
+ }
+ .text{
+   font-size: 20px;
+ }   
+    </style>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" />
+</head>
+<body>
+    <nav class="hello">
+        <h1>🤵<i>Hamza Çoban</i></h1>
+        <a href="anasayfa.html" class="aa">Ana Sayfa</a>
+        <a href="hakklmda.html" class="aa">Hakkında</a>
+        <a href="hem.html" class="aa">Kayıt Ol</a>
+        <a href="./haber.html" class="aa">İletişim'e Geçin</a>
+    </nav>
+    <div class="boxer">
+        <div class="boxer1">
+            
+            <div class="boxive">
+                <div class="boxiver">
+                    <img src="../fotoğraflar/işadamı.png">
+                </div>
+                <br><br>    
+                <p id="text"> Selam arkadaşlar,benim adım Hamza bu sayfada sizlere kendimden ve size ne kazandırabileceklerimden bahsedeceğim.
+                    Öncelikle bu sayfanın Bilgisayar üzerine olduğunu belirtmek isterim.Bu sayfada Visiual Studio Code ile Html,Css,JavaScript,Bootstrap dillerini anlatacağım.En sade şekilde anlatmayı deniyeceğim.
+                </p>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="box">
+            <h2>Kişisel Bilgiler</h2>
+            <p class="text">Benim adım Hamza Çoban.Trabzon'da doğup büyüdüm.Etkinliklere katılmayı seven biriyim.Genelde basketbol,hentbol,futbol,bisiklet ve yüzme sporlarıyla uğraşmaktayım.En sevdiğim sporsa bisiklettir.Bisikleti sevmemin sebebi hem spor yaparken hemde biyerleri gezmemi sağlamasıdır.Genelde bilgisayar başında vakit geçiren biri değilim ama pandemiden sonra bisiklet sporu biraz daha azalıp genelde bilgisayar başında vakit geçirmekteydim ve bu mesleğe de böyle başladım.Müzik konusunda ise 2019-2020 senesindar ama tabi profesyonelce değil.Bunlardan biri de mızıka.Mızıka'yı sevmemin temeli kovboy filmlerinde başladı.e Trabzonda konser vermiştik ve çalabildiğim bazı çalgılar da var.Hayatta her zaman sporu ön planda tutmuşumdur.Bunun nedeni ise sporu hem vucüdü hem zihni hemde çevremi geliştirdiğini farkettim ve buda benim çok hoşuma gitmişti.
+            </p>
+        </div>
+        <div class="box">
+            <h2>Eğitim Bilgileri</h2>
+            <p class="text">İlkokulu Trabzon/Boztepe İlköbğretim okuluydu.Ortaokulum ise Cudibey Ortaokuluydu.Liseyi de Ahmet Can Bali Anadolu Lisesinde okudum.Şu anda Amasya Üniversitesi Bilgisayar Programcılığı 1.Sınıfta okumaktayım.Sınıfı 2.likle, Okuluysa 9.lukla bitirdim.Hep olmak istediğim şey bir sporcuydu ama Bilgisayarda ilgimi çekiyordu ve bende sağlam bir işim olmasını istediğim için bu mesleği seçtim.Amacım bu meslekte en az 1 alanda iyi olup bu alanda kendimi geliştirmek bunu ,se ya web tasarım ya da c# alanında yapacağım.Şu anda temel düzeyde Html,Css,C# bilmekteyim ve bu dersleri anlatacağım bu sayfamda sizin de aklınızda bir yol çizmek için bu sayfada bu dillerin hakkkında bazı bilmeniz gereken şeyleri anlatacağım.Bilmeniz gereken en önemli şey yapmaktan hiçbir zaman korkmamanız gerektiği gerektiği yerde risk almaktan korkmamanız gerektiğidir.</p>
+        </div>
+        <div class="box">
+            <h2>Memleketi ve Gezdiği Bazı Yerler</h2>
+            <p class="text">Memleketim Trabzondur.Trabzon'da gezmediğim hiçbir yer yoktur bunun sebebiyse bisiklet antremanlarımda rotalar üzerindeki yerleri gezmiş olmamdır.Hatta ben şu ana kadar gezdiğim yerlerin hepsini bisiklet ile gezmişimdir.Trabzon dışında Rize,Giresun,Ordu,Samsun,Amasya,Gümüşhane,Zonguldak gibi yerleri gezdim.Bunun ilginç tarafı ise buraların hepsini bisikletle gezmiş olmamdır.Rize'nin kalesi ve Ayder yaylası güzeldi aslında yarısı çaylıklardan oluşmaktaydı.Giresun'da ise ada olması dikkatimi çekti merkezi ise bence böyle biryere göre kötüydü ama köylerinin doğallığı güzel hoştu.Ordu ise merkezi güzel bir şehirdi köy tarafları ise benim diğer yerlere göre pek hoşuma gitmedi açıkcası.Samsun'a gelecek olursak çok büyük bir şehir ben hala her yerini tam gezmedim kesinlikle gidilip görülmesi gereken bir yer.</p>
+        </div>
+    </div>
+    <div>
+        <div class="boxend"><iframe width="560" height="315" src="https://www.youtube.com/embed/ok-plXXHlWw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+        <div class="boxend"><iframe width="560" height="315" src="https://www.youtube.com/embed/OEV8gMkCHXQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+        <div class="boxend"><iframe width="500" height="315" src="https://www.youtube.com/embed/AMpkXMU0IkI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+    </div>
+    <hr>
+</body>
+</html>
