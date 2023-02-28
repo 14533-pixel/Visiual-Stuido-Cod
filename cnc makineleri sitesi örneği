@@ -1,0 +1,492 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../CSS/anasayfa.css">
+    <title>DENVER-Stone&Glass Machines</title>
+</head>
+<body>
+    <div class="header">
+            <nav class="list-1">
+                <a href=""><img src="../PHOTO/LOGO.png" alt=""></a>
+                <a href="" class="home">HOME</a> |
+                <a href="">COMPANY</a> |
+                <a href="">DENVER WORLD</a> |
+                <a href="">STONE</a> |
+                <a href="">GLASS</a> |
+                <a href="">VIDEO</a> |
+                <a href="">TESTIMONIAL</a> |
+                <a href="">SECOND HAND</a> |
+                <a href="">NEWS&EVENTS</a> |
+                <a href="">CONTACTS</a> |
+                <a href="">CHECK UP</a> |
+            </nav>
+    </div>
+    <section class="page-1">
+        <img src="../PHOTO/cnc.jpg" alt="">
+    </section>
+    <section class="anabölüm">
+        <div class="box">
+            <img src="../PHOTO/stone.png" alt="">
+            <img src="../PHOTO/CNC.png" alt="">
+            <p>
+                <br><br>
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda, vel velit quam voluptatum suscipit veniam tempora alias maxime magnam id ducimus earum repellat, eveniet, quasi rerum? Quidem labore autem quibusdam! Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptates dolores voluptas perspiciatis iste vel eos incidunt asperiores odio voluptatum alias. Minima suscipit expedita quas vel, distinctio doloribus accusantium quod sint. <br><br><br>
+                <a href="" class="a-1">Discover Machines</a>
+                <a href="" class="a-2">Configures</a>
+            </p>
+
+            <img src="../PHOTO/2.logo.png" alt="">
+        </div>
+        <div class="box-2">
+            <img src="../PHOTO/2.logo.png" alt="">           
+            <p>
+                <br><br>
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda, vel velit quam voluptatum suscipit veniam tempora alias maxime magnam id ducimus earum repellat, eveniet, quasi rerum? Quidem labore autem quibusdam! Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptates dolores voluptas perspiciatis iste vel eos incidunt asperiores odio voluptatum alias. Minima suscipit expedita quas vel, distinctio doloribus accusantium quod sint. <br><br><br>
+                <a href="" class="a-1">Discover Machines</a>
+                <a href="" class="a-2">Configures</a>
+            </p>
+            <img src="../PHOTO/cnc-2.png" alt="">
+            <img src="../PHOTO/glass.png" alt="">            
+        </div>
+    </section>
+    <div class="container">
+        <div class="item">
+            <div class="altitem">
+                <img src="../PHOTO/minilogo.png" alt="">
+                <h2>Take a look to the <br> processings</h2>
+            </div>
+            <p>Explore our Youtube channel and browse through more than 100 demonstration videos of our machines.
+            </p>
+            <a href="">Youtube Channel</a>
+        </div>
+        <div class="item2">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/ywU3rtNC5sA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        </div>
+    </div>
+    <div class="container-2">
+        <div class="bolum-1">
+            <img src="../PHOTO/minilogo.png" alt="">
+            <h2>Our History</h2>    
+        </div>
+        <div class="bolum-2">
+            <p>Established in 1984 in the Republic of San Marino, today Denver offers the largest range of stone and glass processing machines, including: bridge-saws with 3 / 4 and 5axis, CNC router machines with 3, 4 and 5 interpolated axis, 5 Axes CNC working centers, universal vertical CNC machines, waterjet and Automatic polishing slab machine. The best price-quality rate, a friendly interface, top quality components and absolute respect for human relationships, are the basis on which Denver build his business and successful experience.</p>
+        </div>
+        <div class="bolum-3">
+            <ul>
+                <li>1984</li>
+                <li>1988</li>
+                <li>1994</li>
+                <li>1996</li>
+                <li>2002</li>
+                <li>2006</li>
+                <li>2014</li>
+                <li>2017</li>
+            </ul>
+            <div class="bolum-4">
+                <img src="../PHOTO/manzara.png" alt="">
+                It is from years of work field and from the curious and foolish spirit of those who love creating and finding new solutions, that Giannoni brothers create Denver srl.
+            </div>
+        </div>
+    </div>
+    <div class="container-3">
+        <div class="item2003">
+            <img src="../PHOTO/minilogo.png" alt="">
+        <h2>Book your demo</h2>
+        </div>
+        <p>Denver gives you the chance <span class="span"> to enter from your home in the company solution center </span>and check online the wide range of processing possible on our machines. <span class="span">You can also speak directly to our technicians </span>  and follow step by step software programming. You just have to fill in the form choosing the model you are interested in and you will be contacted to plan together date, time, processing and subject to attend online.</p>
+        <a href="">Book now</a>
+    </div>
+    <div class="container-4">
+        <div class="kapsayici">
+            <img src="../PHOTO/minilogo.png" alt="">
+            <h2>Denver World</h2>
+            <div class="nava">
+                <a href="">Training Center</a>
+                <a href="">Financing</a>
+                <a href="">Care</a>
+                <a href="">Solution Center</a>
+            </div>
+        </div>
+       
+        <div class="selection">
+            <img src="../PHOTO/trainig_center_2.jpg" alt="">
+            <div class="boxer">
+                <h3>Denver Training Center</h3>
+                <p>In DENVER we believe that first step is the most important, for this reason installation and initial training are handled by authorized and certified DENVER technicians only.
+                    For more information contact us
+                    info@denver.sm</p>
+            </div>
+            
+        </div>
+    </div>
+    <div class="container-5">
+        <div class="boxend">
+            <img src="../PHOTO/minilogo.png" alt="">
+            <h2>Denver</h2>
+        </div>
+        <div class="call">
+            <p>Tel: +39 0549 999 688</p>
+            <p>Fax: +39 0549 999 651</p>
+            <p>Email:<a href=""> info@denver.sm</a></p>
+        </div>
+        <ul>
+            <li>Denver S.p.A.</li>
+            <li>Strada del Lavoro, 87 - Gualdicciolo RSM - 47892 Rep. San Marino</li>
+            <li>Denver USA Inc.
+            </li>
+            <li>142 Fox Knoll Drive, Unit D - Powells Point, NC 27966
+            </li>
+            <li><a href="www.denverusamachinery.com" style="color: #0095eb; text-decoration: none;">www.denverusamachinery.com</a>
+            </li>
+            <li>Iscrizione reg. società della R.S.M. N.1312</li>
+            <li>Capitale sociale: 3.200.000,00</li>
+        </ul>
+    </div>
+    <div class="container-6">
+        <div class="letter">
+            <h2>Connect with Denver</h2>
+            <h2>Newsletter Subscription</h2>
+        </div>
+        <div class="all">
+            <div class="icons">
+                <a href=""> <img src="../PHOTO/face.png" alt=""></i></a>
+                <a href=""> <img src="../PHOTO/you.png" alt=""></a>
+                <a href=""> <img src="../PHOTO/twitter.png" alt=""></a>             
+                <a href=""> <img src="../PHOTO/in.png" alt=""></a>                    
+    
+            </div>
+            <div>
+                <input type="text" placeholder="Scrivi qui la tua email*">
+            <button class="buttonn"><a href="">INVIA</a></button>
+            </div>
+        </div>
+        
+    </div>
+    <footer>
+        <p>Powered by <a href="">Studıo Leonardo</a></p>
+        <p><a href="">Informatıva Prıvacy</a> |
+            <a href="">Dichiarazione Cookies</a>
+        </p>
+    </footer>
+    
+</body>
+</html>
+//CSS BÖLÜMÜ------------------------------------------------------------------------------------------------------------------------------------------------
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;700&display=swap');
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Oswald', sans-serif;
+}
+.header{
+    display: flex;
+    justify-content: space-around;
+}
+.anabölüm{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    }
+.list-1{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.list-1 img{
+    width: 200px;
+}
+.list-1 a{
+    text-decoration: none;
+    font-weight: 400;
+    color: #245676;
+    font-size: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.list-1 .home{
+    text-decoration: underline;
+    margin-left: 50px;
+}
+.list-1 a:hover{
+    text-decoration: underline;
+}
+.page-1 {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: black;
+
+}
+.box{
+    display: grid;
+    grid-template-columns: repeat(4,auto);
+    background-color: black;
+    color: #fff;
+}
+.a-1{
+    padding: 15px;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: #fff ;
+    text-decoration: none;
+    color: #4d4e51;
+    border-radius: 10px;
+    border: 1px solid #fff;
+}
+.a-1:hover{
+    background-color: gray;
+    transition: .5s;
+    color: #fff;
+}
+.a-2{
+    padding: 15px;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: #59809a;
+    text-decoration: none;
+    color: #fff;
+    border-radius: 10px;
+}
+.a-2:hover{
+    background-color: #0095eb;
+    transition: .5s;
+    border: 1px solid #fff;
+}
+.box-2{
+    display: grid;
+    grid-template-columns: repeat(4,auto);
+    background-color: black;
+    color: #fff;
+    margin-top: 15px;
+}
+.container{
+    display: flex;
+    justify-content: space-evenly;
+    background-image: url(../PHOTO/bacground.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.altitem{
+    display: flex;
+    align-items: center;
+}
+.altitem h2{
+    font-weight: 500;
+    font-size: 40px;
+    margin-left: 50px;
+    color: #fff;
+}
+.item p{
+    color: #fff;
+    margin-bottom: 100px;
+}
+.item a{
+    background-color: #fff;
+    padding: 15px;
+    padding-left: 50px;
+    padding-right: 50px;
+    border-radius: 15px;
+    text-decoration: none;
+    color: #4d4e51;
+    margin-left: 50px;
+}
+.item a:hover{
+    border: 1px solid #fff;
+    background-color:#4d4e51 ;
+    transition: .5s;
+    color: #fff;
+}
+.item2{
+    padding: 50px;
+}
+.container-2{
+    background-color: #098bc8;
+    padding-bottom: 10%;
+}
+.bolum-1{
+    display: flex;
+    align-items: center;
+    margin-left: 20%;
+    margin-right: 20%;
+    color: #fff;
+}
+.bolum-2{
+    color: #fff;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.bolum-3 ul{
+    color: #fff;
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.bolum-4{
+    background-color: #fff;
+    display: flex;
+    align-items: center;
+    margin-top: 5%;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+.bolum-4 img{
+    padding: 15px;
+}
+.container-3{
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 5%;
+}
+.item2003{
+    display: flex;
+    color: #098bc8;
+}
+.container-3 a{
+    text-decoration: none;
+    padding: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    border-radius: 15px;
+    background-color: #098bc8;
+    color: #fff;
+}
+.container-3 a:hover{
+    background-color: #097fc479;
+    transition: .5s;
+}
+.span{
+    color: #0693e3;
+}
+.container-4{ 
+    display: grid;
+    background-image: url(../PHOTO/BA.png);
+    background-position: right top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    align-items: center;
+    justify-content: space-around;
+    padding-bottom: 5%;
+}
+.kapsayici{
+    display: flex;
+    align-items: center;
+    color: #fff;
+    margin-top: 5%;
+    margin-left: 25%;
+}
+.nava{
+    padding: 10px;
+    border-radius: 15px;
+    border: 1px solid #fff;
+    margin-left: 20%;
+}
+.nava a{
+    color: #fff;
+    text-decoration: none;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.nava a:hover{
+    color: #0693e3;
+}
+.selection{
+    display: flex;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.selection img{
+    width: 500px;
+    padding: 50px;
+}
+.kapsayici h2{
+    font-weight: 700;
+    font-size: 40px;
+}
+.boxer{
+    margin-top: 10%;
+}
+.boxend{
+    display: flex;
+    align-items: center;
+    font-size: 30px;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.container-5{
+    background-color: #4d4e51;
+    color: #fff;
+    display: flex;
+    flex-wrap: wrap;
+}
+.container-6{
+    margin-bottom: 3%;
+}
+.call{
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.call p{
+    font-weight: 400;
+    font-size: 20px;
+    border: 1px solid #fff;
+    border-radius: 15px;
+    width: 300px;
+    padding: 10px;
+    text-align: center;
+}
+.call a{
+    text-decoration: none;
+    color: #fff;
+}
+.call a:hover{
+    color: #0095eb;
+}
+.letter{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    font-size: 25px;
+    color: #098bc8;
+}
+.buttonn{
+    background-color: #0095eb;
+    color: #fff;
+    padding: 10px 50px 10px 50px;
+    border-radius: 15px;
+    border: 1px solid #0095eb;
+}
+.buttonn a{
+    color: #fff;
+    text-decoration: none;
+}
+input{
+    width: 300px;
+    height: 35px;
+    border-radius: 15px;
+    border: 1px solid gray;
+}
+.all{
+    display: flex;
+    margin-left: 20%;
+    margin-right: 20%;
+    align-items: center;
+    justify-content: space-around;
+}
+
+footer{
+    background-color: #0095eb;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+footer a{
+    color: #fff;
+    text-decoration: none;
+}
+footer a:hover{
+    text-decoration: underline;
+}
